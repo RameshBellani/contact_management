@@ -16,7 +16,7 @@ This is a Node.js + Express.js API for managing contacts, built with MongoDB as 
 
 🔧 Installation & Setup
 Clone the repository
-git clone https://github.com/yourusername/contact-management.git
+git clone https://github.com/rameshbellani/contact_management.git
 cd contact-management
 
 Install dependencies
